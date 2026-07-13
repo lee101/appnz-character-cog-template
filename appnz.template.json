@@ -1,0 +1,8 @@
+{
+  "name": "character-cog-starter",
+  "image": "ghcr.io/lee101/appnz-character-cog-template:latest",
+  "hardware": "gpu-l40s",
+  "minVramGb": 24,
+  "idleSeconds": 120,
+  "outputKind": "json"
+}
